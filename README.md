@@ -1,4 +1,6 @@
-Hello, I'm Kesav Chandra! 👋 🎓 First-Year Student in Electronics and Communication Engineering ( ECE)
+Hello, I'm Kesav Chandra! 👋 
+
+🎓 First-Year Student in Electronics and Communication Engineering ( ECE)
  💻 Ambitious Chip Design Researcher | Future Future VLSI VLSI Engineer 
 🎨 Artist | Creative Thinker | Lifelong Learner Welcome to my GitHub profile! I’m an engineering student delving into programming, electronics, and semiconductor technology. I’m enthusiastic about creating projects, mastering new technologies, and bringing my ideas to life. 
 
